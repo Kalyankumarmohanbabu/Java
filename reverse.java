@@ -1,7 +1,7 @@
 public class StringPrograms {
 
 	public static void main(String[] args) {
-		String str = "123";
+		String str = "welcome to java";
 
 		System.out.println(reverse(str));
 	}
